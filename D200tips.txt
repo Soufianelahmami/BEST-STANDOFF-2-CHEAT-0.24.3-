@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"BEST STANDOFF 2 CHEAT mod 1","desc":"Standoff 2 is a thrilling first-person shooter (FPS) video game that brings the excitement of tactical combat to your mobile device","photo":"https://iili.io/HbC6nRa.webp"},
+  {"title":"BEST STANDOFF 2 CHEAT mod 2","desc":" Developed by Axlebolt, it's the successor to the popular Standoff","photo":"https://iili.io/HbC6oOJ.webp"},
+  {"title":"BEST STANDOFF 2 CHEAT mod 3","desc":"Multiplayer, and it takes mobile gaming to a whole new level with its immersive gameplay and stunning graphics","photo":"https://iili.io/HbC6CHg.webp"},
+  {"title":"BEST STANDOFF 2 CHEAT mod 4","desc":"Intense Firefights: Standoff 2 offers fast-paced and action-packed gameplay where players engage in intense firefights with enemies","photo":"https://iili.io/HbC6qUF.webp"},
+  {"title":"BEST STANDOFF 2 CHEAT mod 5","desc":" Team up with friends or go solo as you work to eliminate opponents in various game modes.","photo":"https://iili.io/HbC6xDv.webp"},
+  {"title":"BEST STANDOFF 2 CHEAT mod 6","desc":"Diverse Game Modes: The game offers a variety of modes to keep players engaged, including Team Deathmatch, Defuse the Bomb, Arms Race, and Capture the Flag.","photo":"https://iili.io/HbC6IxR.webp"},
+  {"title":"BEST STANDOFF 2 CHEAT mod 7","desc":"Each mode offers a unique experience and challenges your skills in different ways.","photo":"https://iili.io/HbC6TVp.webp"},
+  {"title":"BEST STANDOFF 2 CHEAT mod 8","desc":"Realistic Weapons: Choose from a wide range of realistic firearms and equipment. Customize your loadout to suit your playstyle","photo":"https://iili.io/HbC6uiN.webp"}
    ]
  
 }
